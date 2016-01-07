@@ -28,9 +28,9 @@ import java.sql.Types;
  * An CacheDialect dialect for Intersystem's Cache.
  * extension of Cache71Dialec
  *
- * intended for  Hibernate 4.3+  and jdk 1.7 or 1.8
+ * intended for  Hibernate 5.0  and jdk  1.8
  * 
- *  Hibernate works with Cachejdbc.jar located in cache intallation directory ..\dev\java\lib\JDK18 or \JDK17
+ *  Hibernate works with Cachejdbc.jar located in cache intallation directory ..\dev\java\lib\JDK18
  * 	Hibernate properties example
  * 		hibernate.dialect org.hibernate.dialect.CacheDialect
  *		hibernate.connection.driver_class com.intersys.jdbc.CacheDriver
